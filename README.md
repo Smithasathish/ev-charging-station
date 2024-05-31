@@ -1,50 +1,33 @@
+# EV Charging Station Management
 
-# TypeScript
+This project is a basic EV Charging Station Management application built with TypeScript, HTML, and CSS.
 
-[![GitHub Actions CI](https://github.com/microsoft/TypeScript/workflows/CI/badge.svg)](https://github.com/microsoft/TypeScript/actions?query=workflow%3ACI)
-[![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript)
-[![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/microsoft/TypeScript/badge)](https://api.securityscorecards.dev/projects/github.com/microsoft/TypeScript)
+## Installation
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ev-charging-station.git
 
-[TypeScript](https://www.typescriptlang.org/) is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript. Try it out at the [playground](https://www.typescriptlang.org/play/), and stay up to date via [our blog](https://blogs.msdn.microsoft.com/typescript) and [Twitter account](https://twitter.com/typescript).
+2. Navigate to the project directory:
+   cd ev-charging-station
 
-Find others who are using TypeScript at [our community page](https://www.typescriptlang.org/community/).
+3. Install dependencies:
+   npm install
 
-## Installing
+Usage
+1. Compile TypeScript to JavaScript:
+ npm run build
 
-For the latest stable version:
+2. Open index.html in your browser to view the application.
 
-```bash
-npm install -D typescript
-```
+Contributing
+If you'd like to contribute to this project, please follow these steps:
 
-For our nightly builds:
+1. Fork the repository on GitHub.
+2. Create a new branch for your feature: git checkout -b feature-name.
+3. Make your changes and commit them: git commit -am 'Add new feature'.
+4. Push your changes to your fork: git push origin feature-name.
+5. Submit a pull request on GitHub.
 
-```bash
-npm install -D typescript@next
-```
-
-## Contribute
-
-There are many ways to [contribute](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md) to TypeScript.
-* [Submit bugs](https://github.com/microsoft/TypeScript/issues) and help us verify fixes as they are checked in.
-* Review the [source code changes](https://github.com/microsoft/TypeScript/pulls).
-* Engage with other TypeScript users and developers on [StackOverflow](https://stackoverflow.com/questions/tagged/typescript).
-* Help each other in the [TypeScript Community Discord](https://discord.gg/typescript).
-* Join the [#typescript](https://twitter.com/search?q=%23TypeScript) discussion on Twitter.
-* [Contribute bug fixes](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md).
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see
-the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com)
-with any additional questions or comments.
-
-## Documentation
-
-*  [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-*  [Programming handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-*  [Homepage](https://www.typescriptlang.org/)
-
-## Roadmap
-
-For details on our planned features and future direction, please refer to our [roadmap](https://github.com/microsoft/TypeScript/wiki/Roadmap).
+URL 
+You can access the live version of this project at http://127.0.0.1:5500/src/index.html?username=&email=#profile
