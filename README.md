@@ -9,16 +9,19 @@ This project is a basic EV Charging Station Management application built with Ty
    git clone https://github.com/your-username/ev-charging-station.git
 
 2. Navigate to the project directory:
+   ```bash
    cd ev-charging-station
 
 3. Install dependencies:
+   ```bash
    npm install
 
 Usage
 1. Compile TypeScript to JavaScript:
- npm run build
+   ```bash
+   npm run build
 
-2. Open index.html in your browser to view the application.
+3. Open index.html in your browser to view the application.
 
 Contributing
 If you'd like to contribute to this project, please follow these steps:
